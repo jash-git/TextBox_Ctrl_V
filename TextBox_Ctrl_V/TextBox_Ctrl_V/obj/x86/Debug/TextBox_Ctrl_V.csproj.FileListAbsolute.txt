@@ -1,0 +1,9 @@
+C:\Users\RD\AppData\Local\Temporary Projects\TextBox_Ctrl_V\bin\Debug\TextBox_Ctrl_V.exe
+C:\Users\RD\AppData\Local\Temporary Projects\TextBox_Ctrl_V\bin\Debug\TextBox_Ctrl_V.pdb
+C:\Users\RD\AppData\Local\Temporary Projects\TextBox_Ctrl_V\obj\x86\Debug\TextBox_Ctrl_V.Form1.resources
+C:\Users\RD\AppData\Local\Temporary Projects\TextBox_Ctrl_V\obj\x86\Debug\TextBox_Ctrl_V.Properties.Resources.resources
+C:\Users\RD\AppData\Local\Temporary Projects\TextBox_Ctrl_V\obj\x86\Debug\TextBox_Ctrl_V.csproj.GenerateResource.Cache
+C:\Users\RD\AppData\Local\Temporary Projects\TextBox_Ctrl_V\obj\x86\Debug\TextBox_Ctrl_V.exe
+C:\Users\RD\AppData\Local\Temporary Projects\TextBox_Ctrl_V\obj\x86\Debug\TextBox_Ctrl_V.pdb
+C:\Users\RD\Desktop\TextBox_Ctrl_V\TextBox_Ctrl_V\obj\x86\Debug\TextBox_Ctrl_V.exe
+C:\Users\RD\Desktop\TextBox_Ctrl_V\TextBox_Ctrl_V\obj\x86\Debug\TextBox_Ctrl_V.pdb
